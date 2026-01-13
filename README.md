@@ -1,4 +1,4 @@
-# AI-Powered Job Portal (Applicant Tracking System)
+# AI-Powered Job Portal
 
 An AI-driven Applicant Tracking System (ATS) that automates resume screening, ranks candidates based on job relevance, and performs skill gap analysis to assist recruiters in faster and unbiased hiring.
 
